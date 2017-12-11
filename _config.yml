@@ -32,8 +32,8 @@ imglogo:
   src: ## img/logo.png        ## `.svg` and `.png` are recommended,please put image into the theme folder `/jacman/source/img`.
 favicon: ## img/favicon.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/jacman/source/img`.
 apple_icon: ## img/jacman.jpg ## size:114px*114px,please put image into the theme folder `/jacman/source/img`.
-author_img: ## img/author.jpg ## size:220px*220px.display author avatar picture.if don't want to display,please don't set this.
-banner_img: #img/banner.jpg ## size:1920px*200px+. Banner Picture
+author_img: img/tiger.png ## img/author.jpg ## size:220px*220px.display author avatar picture.if don't want to display,please don't set this.
+banner_img: img/banner2.jpg ## size:1920px*200px+. Banner Picture
 ### Theme Color 
 theme_color:
     theme: '#2ca6cb'    ##the defaut theme color is blue
@@ -57,15 +57,16 @@ creative_commons: none
 #### Author information
 author:
   intro_line1:  "God is in his heaven, all's right with the code."    ## your introduction on the bottom of the page
-  ##intro_line2:  "This is my blog,believe it or not."  ## the 2nd line
+  intro_line2:  ""  ## the 2nd line
   weibo: ## 2176287895     ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier: ## b3593ceb    ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
-  zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
+  zhihu:      li-meng-48 ## e.g. jark  for http://www.zhihu.com/people/jark
   email:      ## e.g. imjark@gmail.com
   twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
-  github:     ## e.g. wuchong for https://github.com/wuchong
+  github:     limeng32/mybatis.flying
+  gitee:      limeng32/mybatis.flying
   facebook:   ## e.g. imjark for https://facebook.com/imjark
   linkedin:   ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
   google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!
@@ -81,8 +82,8 @@ toc:
 
 #### Links
 links:
-  ## 码农圈: https://coderq.com,一个面向程序员交流分享的新一代社区
-  ## Jark's Blog: http://wuchong.me
+  flying-初雪 理论基础一: https://my.oschina.net/u/2280950/blog/1580056,关于在网络应用中使用双向相关模型的研究
+  flying-初雪 新增自定义主键生成器特性: http://www.cnblogs.com/dasn/articles/5208022.html,为什么我们在初雪版中引入自定义主键机制
 
 
 
